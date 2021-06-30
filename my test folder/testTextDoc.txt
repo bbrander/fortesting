@@ -1,0 +1,66 @@
+- COMP NAME -	- LAYER NAME -	- ORIGINAL TEXT -	- TRANSLATE -				- DONE -
+01_01_D	^TEXT	NOTHING	Translate text 1				
+01_01_E	^TEXT	okay nada	Translate text 2				
+01_01_F	^TEXT	"Agree on each 
+employee's top three strengths."	Translate text 3				
+01_01_G	^TEXT	3. Make time to focus on development areas.	Translate text 4				
+01_01_H	^TEXT 5	3. Make time to focus on development areas.	Translate text 5				
+	^TEXT 4	"20% New strengths"	Translate text 6				
+	^TEXT 2	"70% Signature strengths"	Translate text 7				
+01_01_I	^TEXT	4. Track progress during coaching sessions.	Translate text 8				
+01_02_C	^BULLET TEXT	Goal	Translate text 9				
+	^HEADER	GROW Model	Translate text 10				
+01_02_E	^HEADER	Goal Questions	Translate text 11				
+	^BULLET TEXT	"What are you looking to achieve?How does this fit into the big picture? What could you focus on this week to help achieve your long-term goals?"	Translate text 12				
+01_02_F	^BULLET TEXT	"Goal Reality"	Translate text 13				
+	^HEADER	GROW Model	Translate text 14				
+01_02_H	^HEADER	Reality Questions	Translate text 15				
+	^BULLET TEXT	"What is the current situation?What barriers could get in your way?What qualities will help you achieveyour goals?What resources can you utilise?"	Translate text 16				
+01_02_I	^BULLET TEXT	"Goal RealityOptions"	Translate text 17				
+	^HEADER	GROW Model	Translate text 18				
+01_02_K	^HEADER	Options Questions	Translate text 19				
+	^BULLET TEXT	"What options are there to achievingyour goal?How would other people approachthis goal?What’s the most appealing way to reach your goal?"	Translate text 20				
+01_02_L	^BULLET TEXT	"Goal RealityOptionsWill"	Translate text 21				
+	^HEADER	GROW Model	Translate text 22				
+01_02_M	^HEADER	Will Questions	Translate text 23				
+	^BULLET TEXT	"What actions will you take?How will you track progress?How will you know when you've achieved your goal?How committed are you to reachingyour goal?"	Translate text 24				
+01_03_D	^TEXT	Personal reflection	Translate text 25				
+01_03_F	^HEADER	Personal Reflection	Translate text 26				
+	^BULLET TEXT	"Over the past week, what have youdone well?In the future, what could you doeven better?Right now, what small tweak could you make to be a little better?"	Translate text 27				
+01_03_G	^TEXT	Peer feedback	Translate text 28				
+01_03_I	^TEXT	"""What could I do even better?"""	Translate text 29				
+01_03_K	^TEXT	Manager feedback	Translate text 30				
+!!!	! 2	!					
+	!	!					
+	! 4	!					
+	! 5	!					
+	! 3	!					
+???	! 2	!					
+	!	!					
+	? 2	?					
+	?	?					
+	? 3	?					
+??? 2	! 2	!					
+	!	!					
+	? 2	?					
+	?	?					
+	? 3	?					
+$$$	! 2	!					
+	!	!					
+	$3 	$					
+	$2 	$					
+	$	$					
+	alsdjf;alskdjf	alsdjf;alskdjf					
+??? precomp	! 2	!					
+	!	!					
+	? 2	?					
+	?	?					
+	? 3	?					
+							
+__________________________________________________							
+ILLUSTRATOR FILES BELOW							
+							
+Arrows diverging.ai	"Line weight: 4ptcorner roundness: 5ptKEEP IT CLEAN"						
+	"Line weight: 4ptcorner roundness: 5ptKEEP IT CLEAN"						
+Person CEO.ai	now 2 here still 2 going on with soft return						
+	asdfasdf 						
